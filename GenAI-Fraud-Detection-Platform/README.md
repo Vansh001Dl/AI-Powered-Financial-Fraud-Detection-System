@@ -123,6 +123,7 @@ npm install
 npm run dev
 ```
 
+<<<<<<< ours
 Open `http://localhost:5173` in your browser.
 
 ### Production frontend build
