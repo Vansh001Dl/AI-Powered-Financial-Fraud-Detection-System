@@ -1,5 +1,7 @@
 # GenAI-Powered Financial Fraud Detection & Analytics Platform
 
+> AI-powered financial fraud detection and analytics platform with transaction risk scoring, explainable insights, dashboards, reports, and a GenAI chatbot.
+
 An end-to-end financial fraud analysis platform that helps analysts upload transaction datasets, identify potentially fraudulent activity, investigate risk signals, generate explainable insights, and create reports from one workspace.
 
 The project combines a React dashboard with a FastAPI backend and a modular analytics, ML, reporting, and conversational-assistant architecture.
