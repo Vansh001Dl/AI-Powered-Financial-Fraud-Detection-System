@@ -1,0 +1,23 @@
+# Environment and credentials
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python caches, virtual environments, and test artifacts
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.venv/
+
+# JavaScript dependencies and generated build/config files
+**/node_modules/
+**/dist/
+**/.vite/
+**/*.tsbuildinfo
+**/vite.config.js
+**/vite.config.d.ts
+
+# Local data and model artifacts
+**/data/uploads/
+**/data/processed/
+**/models/artifacts/
